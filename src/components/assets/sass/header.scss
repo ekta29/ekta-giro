@@ -1,0 +1,13 @@
+.navbar{
+  box-shadow: none !important;
+  .navbar-nav{
+    width: 100%;
+    .align-content-end{
+      a{
+        img{
+          float: right;
+        }
+      }
+    }
+  }
+}

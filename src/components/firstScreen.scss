@@ -1,0 +1,44 @@
+.page-header{
+  padding: 30px 0;
+  h3{
+    color: #BEBEBE;
+  }
+  h2{
+    font-weight: bold !important;
+    color:#000000;
+  }
+}
+.credit-limit-card{
+  padding: 0 24px;
+
+  .card{
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: none !important;
+    background: #4D69D3;
+    .credit-text-body{
+      padding-top: 5px;
+      .credit-card-title{
+        color: #BEBEBE;
+        font-size: 15px;
+      }
+      .credit-card-sub{
+        color: #FFFFFF;
+        font-size: 15px;
+        font-weight: bold !important;
+      }
+    }
+    .arrow-to-next{
+      padding-top: 12px;
+      p{
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        background:  #BEBEBE;
+        text-align: center;
+        font-size: 20px;
+        padding: 2px 0 0 2px;
+      }
+    }
+  }
+}

@@ -1,0 +1,170 @@
+.card-list-slider{
+  padding: 20px 0;
+  .card-list-heading{
+    h2{
+      color: #282c34;
+      font-weight: bold !important;
+      text-align: center;
+      margin-bottom: 30px !important;
+    }
+  }
+  .react-multi-carousel-list.carousel-container{
+    .react-multi-carousel-track{
+      li.react-multi-carousel-item{
+        width: 230px !important;
+        padding:0 15px !important;
+        &[data-index="3"]{
+          width: 100px !important;
+        }
+        .card-add{
+          background: none;
+          padding-left: 20px;
+          padding-top: 15px;
+          p.item-1{
+            background: #BEBEBE;
+            color: #7D7BDB;
+            width: 60px;
+            height: 60px;
+            border-radius: 15px;
+            font-size: 24px;
+            padding: 15px 0 0 18px;
+          }
+        }
+
+        .card-des{
+          object-fit: cover;
+          width: 180px;
+          height: 100px;
+          background-repeat: no-repeat;
+          .card{
+            border-radius: 15px;
+            width: 100%;
+            height: 100%;
+            padding: 5px 15px !important;
+            .card-body{
+              padding: 0 !important;
+              .col{
+                padding: 5px !important;
+              }
+              .card-top{
+                color: #FFFFFF;
+              }
+              .card-bottom{
+                position: absolute;
+                bottom: 2px;
+                p{
+                  color: #BEBEBE;
+                  font-size: 14px;
+                  margin: 0 !important;
+                }
+                h5{
+                  font-size: 16px;
+                  color: #FFFFFF;
+                  margin: 0 !important;
+                  font-weight: bold !Important;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.popular-operation-sec{
+  padding: 20px 0;
+  .popular-operation-heading{
+    h2{
+      color: #282c34;
+      font-weight: bold !important;
+      text-align: left;
+      margin-bottom: 15px !important;
+      margin-left: 12px !important;
+    }
+  }
+  .popular-operation-body{
+    padding: 12px;
+    .font-label{
+      width: 60px;
+      height: 60px;
+      background: #FFFFFF;
+      color: #4D69D3;
+      border-radius: 10px;
+      font-size: 18px;
+      padding: 18px 0px 0 18px;
+      box-shadow: 1px 4px 0 4px #eee;
+      .icon-plane-font{
+        p svg{
+          transform: rotate(-90deg);
+        }
+      }
+    }
+    .font-caption{
+      text-align: center;
+      font-size: 16px;
+      font-weight: bold;
+      color: #444;
+    }
+  }
+
+}
+
+.transaction-accordion{
+  .accordion{
+    background: #4D69D3;
+    border-radius: 20px 20px 0 0;
+    .accordion-item{
+      background: #4D69D3;
+      border-radius: 20px 20px 0 0;
+      .accordion-header{
+        border-radius: 20px 20px 0 0;
+        border-bottom: 0px !important;
+        .accordion-button:not(.collapsed) {
+          border-radius: 20px 20px 0 0;
+          background: #4D69D3;
+          color: #FFFFFF;
+          font-size: 22px;
+          .all-small{
+            text-align: right;
+            font-size: 16px;
+            font-weight: normal !important;
+          }
+        }
+      }
+      .accordion-collapse{
+        .transaction-accordion-row{
+          padding: 5px 0;
+          .transaction-accordion-icon{
+            p{
+              width: 40px;
+              height: 40px;
+              border-radius: 50%;
+              background: #FFFFFF;
+              color: deeppink;
+              padding: 10px 12px;
+            }
+          }
+          .transaction-accordion-middle{
+            .transaction-accordion-title{
+              color: #FFFFFF;
+              font-size: 16px;
+              font-weight: bold !important;
+              margin: 0 !important;
+            }
+            .transaction-accordion-sub{
+              color: #BEBEBE;
+              font-size: 16px;
+              margin: 0 !important;
+            }
+          }
+          .transaction-accordion-num{
+            color: #FFFFFF;
+            font-size: 18px;
+            font-weight: bold !important;
+          }
+        }
+      }
+    }
+  }
+}
