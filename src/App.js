@@ -10,7 +10,7 @@ class App extends React.Component{
     render() {
         return (
            <Router>
-               <Welcome path="/"/>
+               <Welcome path="/"/> 
                <FirstScreen path="/firstScreen"/>
                <SecondScreen path="/secondScreen"/>
            </Router>
