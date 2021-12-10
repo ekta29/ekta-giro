@@ -7,8 +7,6 @@ import './secondScreen.scss';
 import {Col, Row} from "react-bootstrap";
 import TransactionAccordion from "./SecondScreenPages/TransactionAccordion";
 
-
-
 function SecondScreen(){
     return(
         <Layout>
