@@ -6,8 +6,6 @@ import Welcome from './components/Welcome';
 import FirstScreen from "./components/FirstScreen";
 import SecondScreen from "./components/SecondScreen";
 
-
-
 class App extends React.Component{
     render() {
         return (
