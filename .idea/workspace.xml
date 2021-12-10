@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10546135-09c9-49a5-b4b9-ccbfb7dfe589" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../react-app/src/components/ui/Card.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../react-app/src/components/ui/Card.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../studiobricks-code (1)/studiobricks-code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../studiobricks-code (1)/studiobricks-code/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../studiobricks-code (1)/studiobricks-code/StudioBricks/home/templates/home/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../studiobricks-code (1)/studiobricks-code/StudioBricks/home/templates/home/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../studiobricks-code (1)/studiobricks-code/StudioBricks/home/templates/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../studiobricks-code (1)/studiobricks-code/StudioBricks/home/templates/home/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unconfirmed 451226.crdownload" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../medisage-ekta" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -85,7 +82,7 @@
       <workItem from="1638811448921" duration="1287000" />
       <workItem from="1638812968659" duration="53764000" />
       <workItem from="1639046778961" duration="5010000" />
-      <workItem from="1639074297355" duration="1018000" />
+      <workItem from="1639074297355" duration="1927000" />
     </task>
     <servers />
   </component>
