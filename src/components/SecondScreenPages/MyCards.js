@@ -9,6 +9,8 @@ class MyCards extends React.Component {
         this.state = { toggleActive: false };
         this.onToggle = this.onToggle.bind(this);
     }
+
+    
     onToggle() {
         this.setState({ toggleActive: !this.state.toggleActive });
     }
